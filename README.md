@@ -882,15 +882,14 @@ Finalmente, el ejercicio de frecuencias permitió trabajar con números aleatori
 
 ```
 
----
 
-# Información del Estudiante
+Información del Estudiante
 
-**Nombre:** Maria Townshend
-**Grupo:** 1IL133  
-**Curso:** Herramientas de Programación Aplicada III (.Net)  
-**Institución:** Universidad Tecnológica de Panamá  
-**Facultad:** Facultad de Ingeniería de Sistemas Computacionales  
-**Instructor:** Ing. Irina Fong  
-**Semestre:** II Semestre 2026  
-**Fecha de entrega:** 12 de octubre de 2026
+Nombre: Maria Townshend
+Grupo: 1IL133  
+Curso: Herramientas de Programación Aplicada III (.Net)  
+Institución: Universidad Tecnológica de Panamá  
+Facultad: Facultad de Ingeniería de Sistemas Computacionales  
+Instructor: Ing. Irina Fong  
+Semestre: II Semestre 2026  
+Fecha de entrega: 12 de octubre de 2026
